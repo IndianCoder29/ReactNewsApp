@@ -17,4 +17,4 @@ News Mag is a responsive web application built with React and Bootstrap that fet
 
 Check out the live deployment of the News Mag React App:
 
-[News Mag React App](https://react-news-app-xi.vercel.app/)
+[News Mag React App](https://react-app-newsmag.vercel.app/)
